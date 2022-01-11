@@ -1,0 +1,21 @@
+#button-uredi {
+    background-color: #35ba00;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 10px;
+}
+#button-brisi {
+    background-color:rgb(255, 0, 0);
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 10px;
+}
+#ispis {
+    color:white;
+}
